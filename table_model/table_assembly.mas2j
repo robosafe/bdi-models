@@ -1,0 +1,15 @@
+/* Jason Project */
+
+MAS timed_hri {	
+
+    infrastructure: Centralised
+
+    environment: Env
+
+    agents:
+		robot_code;
+		human;
+		sensors;
+		meta; 
+}
+
